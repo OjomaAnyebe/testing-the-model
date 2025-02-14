@@ -6,7 +6,7 @@ This repository contains the solution to the "Testing the Model" exercise from m
 
 ## About the Exercise
 
-In this exercise, we focus on testing a machine learning model to evaluate its generalization performance. Model testing is a crucial step in understanding how well a trained model performs on unseen data.
+In this exercise, i focused on testing a machine learning model to evaluate its generalization performance. Model testing is a crucial step in understanding how well a trained model performs on unseen data.
 
 ### Objectives
 - Evaluate the model using testing datasets.
